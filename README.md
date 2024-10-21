@@ -7,12 +7,6 @@ Movie-Reel Navigator is an intelligent movie recommendation engine that helps us
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [How It Works](#how-it-works)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Applications](#applications)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
